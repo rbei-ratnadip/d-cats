@@ -6,3 +6,4 @@ A sample project to try out things
 Chafing at custom's chain
 Again from its brumal sleep
 Awaken the ferine strain"
+- John Meyers O'Hara
