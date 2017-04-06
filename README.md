@@ -10,3 +10,5 @@ Again from its brumal sleep
 Awaken the ferine strain"
 - John Meyers O'Hara
 
+Used in 'The Call of the Wild'
+
